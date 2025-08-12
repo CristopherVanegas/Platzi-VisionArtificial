@@ -1,2 +1,2 @@
-# artificial-vision-platzi
+# Platzi-VisionArtificial
 Curso de visión artificial de Platzi
